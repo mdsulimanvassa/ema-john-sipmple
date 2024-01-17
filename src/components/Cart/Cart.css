@@ -1,0 +1,13 @@
+.aline-height{
+    line-height: 10px;
+    text-align: left;
+    margin-left: 5px;
+}
+.review-button{
+    background-color: #FFC312;
+    height: 30px;
+    width: 180px;
+    border: 1px solid #9980FA;
+    border-radius: 3px;
+    cursor: pointer;
+}

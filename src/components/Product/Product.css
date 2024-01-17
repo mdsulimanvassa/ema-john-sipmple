@@ -1,0 +1,19 @@
+
+.name button{
+    background-color: #FFC312;
+    height: 30px;
+    width: 180px;
+    border: 1px solid #9980FA;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    text-align: left;
+}
+.name{
+    color: #0652DD;
+    margin-left: 10px;
+}

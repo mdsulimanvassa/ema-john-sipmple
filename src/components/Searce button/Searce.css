@@ -1,0 +1,21 @@
+.search-button{
+    background-color: #232527;
+    height: 80px;
+    position: relative;
+}
+.search-button input{
+    text-align: left;
+    justify-content: center;
+    width: 80%;
+    padding: 5px;
+    margin-top: 25px;
+}
+.icon{
+    color: white;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.length{
+    color: #EE5A24;
+    font-size: 20px;
+}
