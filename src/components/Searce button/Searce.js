@@ -7,9 +7,9 @@ const Searce = (props) => {
     const cart = props.cart;
     return (
             <div className='search-button'>
-                <input type="search" name="" id="" placeholder='type here to search'/>
+                <input type="search-input" className='input' placeholder='type here to search'/>
                 <span className='icon'><FontAwesomeIcon  icon={faShoppingCart}/> <span className='length'>{cart.length}</span></span>
-                <div className='absulite'>           
+                <div className='absulite'>          
                 </div>
             </div>
     );
